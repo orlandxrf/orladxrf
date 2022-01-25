@@ -27,6 +27,16 @@ body {
   font-weight: bold;
 }
 
+.liga {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.cite {
+  border:1px solid #ccc;
+  display: none;
+}
+
 .social-icons .social-icon {
   display: inline-flex;
   align-items: center;
